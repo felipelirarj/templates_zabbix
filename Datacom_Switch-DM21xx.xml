@@ -5,7 +5,7 @@
     <groups>
         <group>
             <uuid>6a1813c908eb4ef1ac059dc609aa01f7</uuid>
-            <name>CLIENTES PJ</name>
+            <name>DATACOM EDD</name>
         </group>
     </groups>
     <templates>
@@ -24,7 +24,7 @@ Author: Felipe Lira
 Contact: 21982618364</description>
             <groups>
                 <group>
-                    <name>CLIENTES PJ</name>
+                    <name>DATACOM EDD</name>
                 </group>
             </groups>
             <items>
